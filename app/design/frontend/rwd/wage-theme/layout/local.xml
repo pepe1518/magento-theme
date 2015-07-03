@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layout>
+    <default>
+        <!-- add the local stylesheet -->
+        <reference name="head">
+            <!--<action method="addCss"><stylesheet>css/jlstyle.css</stylesheet></action>-->
+            <action method="addCss"><stylesheet>css/styles.css</stylesheet></action>
+            <action method="addCss"><stylesheet>css/custom.css</stylesheet></action>
+            <action method="addCss"><stylesheet>css/responsive.css</stylesheet></action>
+
+            <!--<action method="addItem"><type>skin_js</type><name>js/jquery-1.10.1.min.js</name></action>-->
+            <!--<action method="addItem"><type>skin_js</type><name>js/custom.js</name></action>-->
+        </reference>
+</layout>
